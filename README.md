@@ -3,6 +3,10 @@
 This is in response to a question I
 [posted](https://users.rust-lang.org/t/boxing-a-generic-trait-object-with-trait-type-parameters/10281) on Rust Users.
 
+You can just run it with `cargo run`.
+
+## Original Attempt
+
 I wanted to implement the following, but was not successful in getting it to compile.
 
 ```rust
