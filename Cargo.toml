@@ -1,0 +1,8 @@
+[package]
+name = "trait-obj"
+version = "0.1.0"
+authors = ["Yong Wen Chua <lawliet89@users.noreply.github.com>"]
+
+[dependencies]
+csv = "0.15"
+rustc-serialize = "0.3"
